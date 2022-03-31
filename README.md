@@ -25,12 +25,14 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj
+
+Beebajanu-Ser-Qr-test)
 
 ## `DEPLOY`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Beeba-janu/Nandhutty-V3.git) 
 ----------
 
 
